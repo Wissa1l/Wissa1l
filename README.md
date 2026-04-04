@@ -107,10 +107,17 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
 ---
 
 
+
 ### Cybersecurity
 
 <p>
+  <img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Network%20Security-0052CC?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
@@ -119,7 +126,6 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
   <img src="https://img.shields.io/badge/Cloud%20Security-0A66C2?style=flat-square&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Threat%20Detection-DC143C?style=flat-square&logo=datadog&logoColor=white"/>
 </p>
-
 
 
 
