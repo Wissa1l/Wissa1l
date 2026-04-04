@@ -1,4 +1,4 @@
-# Hi, I'm Wissal Annan 👋
+# Hi, I'm Wissal Annan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=AI+%26+Cybersecurity+Engineer;Computer+Vision+Engineer;Data+Engineering+Student;Building+Intelligent+and+Secure+Systems" />
@@ -14,12 +14,12 @@
 
 ## About Me
 
-Computer Engineering and Artificial Intelligence student specializing in **Cybersecurity, AI, and Data Engineering**, with a strong focus on **Computer Vision systems** and **secure intelligent architectures**.
+Computer Engineering and Artificial Intelligence Student, specializing in **Cybersecurity, Data, and AI**, with strong interest in **Computer Vision**, **AI systems**, and **full-stack development**.
 
-- 📍 Casablanca, Morocco  
-- 🤖 AI + Cybersecurity + Computer Vision  
-- ☁️ Cloud & Data Engineering  
-- 🚀 Building intelligent and secure real-world systems  
+- Casablanca, Morocco  
+- AI + Cybersecurity + Computer Vision  
+- Building intelligent and secure systems  
+- Passionate about solving real-world problems  
 
 ---
 
@@ -30,7 +30,7 @@ Computer Engineering and Artificial Intelligence student specializing in **Cyber
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Engineering-111111?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-111111?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-111111?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ Computer Engineering and Artificial Intelligence student specializing in **Cyber
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ultralytics-00FFFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
 </p>
 
 ---
@@ -111,27 +111,29 @@ Computer Engineering and Artificial Intelligence student specializing in **Cyber
 ### Cybersecurity
 <p>
   <img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square"/>
   <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=flat-square"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/SIEM-4B0082?style=flat-square"/>
-  <img src="https://img.shields.io/badge/KMS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KMS%20Encryption-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-DC143C?style=flat-square"/>
 </p>
 
 ---
 
 ## Projects
 
-### 🔐 SafeZone AI
+### SafeZone AI
 - Real-time human detection using YOLO  
-- Intrusion detection in restricted zones (polygon-based)  
-- Severity classification & alert system (audio + logs)  
-- Video processing with OpenCV  
-- Cloud integration (Azure Blob Storage)  
-- Dashboard for monitoring and analytics  
+- Intrusion detection in restricted areas  
+- Polygon-based zone analysis  
+- Alert system (audio + logs)  
+- Azure integration for secure storage  
 
 ---
 
