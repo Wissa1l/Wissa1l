@@ -75,6 +75,8 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultralytics-00FFFF?style=flat-square"/>
 </p>
 
 ---
