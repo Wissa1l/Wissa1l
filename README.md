@@ -105,6 +105,29 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
 </p>
 
 ---
+---
+
+## Cybersecurity Expertise
+
+<p>
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-111111?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIEM%20%26%20Monitoring-111111?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-111111?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Encryption%20%26%20KMS-111111?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security%20Automation-111111?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+- Threat detection & anomaly detection using AI  
+- Security monitoring with SIEM tools (Azure Sentinel)  
+- Cloud security (Azure, AWS)  
+- Network security & access control (Security Groups, VPC)  
+- Encryption & data protection (KMS, secure storage)  
+- Incident response & alert automation  
+
+
+
+
 
 ## Goal
 
