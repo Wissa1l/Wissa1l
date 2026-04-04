@@ -105,26 +105,20 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
 </p>
 
 ---
----
 
-## Cybersecurity Expertise
+
+### Cybersecurity
 
 <p>
-  <img src="https://img.shields.io/badge/Network%20Security-111111?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat%20Detection-111111?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SIEM%20%26%20Monitoring-111111?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Security-111111?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Encryption%20%26%20KMS-111111?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security%20Automation-111111?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network%20Security-0052CC?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIEM-4B0082?style=flat-square&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KMS%20Encryption-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-0A66C2?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-DC143C?style=flat-square&logo=datadog&logoColor=white"/>
 </p>
-
-- Threat detection & anomaly detection using AI  
-- Security monitoring with SIEM tools (Azure Sentinel)  
-- Cloud security (Azure, AWS)  
-- Network security & access control (Security Groups, VPC)  
-- Encryption & data protection (KMS, secure storage)  
-- Incident response & alert automation  
-
 
 
 
