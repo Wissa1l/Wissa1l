@@ -126,16 +126,6 @@ Computer Engineering and Artificial Intelligence Student, specializing in **Cybe
 
 ---
 
-## Projects
-
-### SafeZone AI
-- Real-time human detection using YOLO  
-- Intrusion detection in restricted areas  
-- Polygon-based zone analysis  
-- Alert system (audio + logs)  
-- Azure integration for secure storage  
-
----
 
 ## Goal
 
