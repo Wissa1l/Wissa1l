@@ -14,7 +14,7 @@
 
 ## About Me
 
-Computer Engineer | AI • Cybersecurity • Data Engineering | Full-Stack Web Developer | Designing Secure, Scalable & Intelligent Solutions 
+Computer Engineer | AI • Cybersecurity • Data Engineering | Full-Stack Web Developer | Building Secure, Scalable & Intelligent Solutions
 
 - Casablanca, Morocco  
 - AI + Cybersecurity + Computer Vision  
