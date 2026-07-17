@@ -14,7 +14,7 @@
 
 ## About Me
 
-Computer Engineering and Artificial Intelligence Student, specializing in **Cybersecurity, Data, and AI**, with strong interest in **Computer Vision**, **AI systems**, and **full-stack development**.
+Computer Engineer | AI • Cybersecurity • Data Engineering | Full-Stack Web Developer | Designing Secure, Scalable & Intelligent Solutions 
 
 - Casablanca, Morocco  
 - AI + Cybersecurity + Computer Vision  
