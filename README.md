@@ -76,6 +76,10 @@ Computer Engineer | AI • Cybersecurity • Data Engineering | Full-Stack Web D
   <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ultralytics-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
