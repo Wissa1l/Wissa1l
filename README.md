@@ -64,23 +64,53 @@ AI Engineer | Computer Vision | Machine Learning | Python | Data • Cloud • C
 
 ---
 
+
+
 ### AI / Computer Vision
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ultralytics-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Image%20Classification-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Image%20Segmentation-20B2AA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Image%20Processing-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Video%20Analysis-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Visual%20Inspection-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-B22222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Grad--CAM-FF1493?style=flat-square"/>
 </p>
+
+
+
+### NLP / LLM / Generative AI
+<p>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BERT-FFCC00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embeddings-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-4169E1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+</p>
+
+
+
+
+
+
+
+
 
 ---
 
