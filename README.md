@@ -14,10 +14,10 @@
 
 ## About Me
 
-Computer Engineer | AI • Cybersecurity • Data Engineering | Full-Stack Web Developer | Building Secure, Scalable & Intelligent Solutions
+AI Engineer | Computer Vision | Machine Learning | Python | Data • Cloud • Cybersecurity | Building Secure, Scalable & Intelligent Solutions
 
-- Casablanca, Morocco  
-- AI + Cybersecurity + Computer Vision  
+ 
+  
 - Building intelligent and secure systems  
 - Passionate about solving real-world problems  
 
